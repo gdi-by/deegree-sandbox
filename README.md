@@ -12,3 +12,4 @@ Dies geschieht über eine deegree-cli-utility Konfigurationsdatei mit folgendem 
 
 Folgende Konfigurationsdatei enthält erste für INSPIRE relevante Ausnahmen: 
 https://github.com/gdi-by/deegree-sandbox/blob/master/inspire-properties-with-primitive-href.properties 
+Diese Datei wurde als Grundlage für unsere aktuelle Datei verwendet und ergänzt
